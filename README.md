@@ -41,3 +41,6 @@
 #### 3.資料確保正確
 ## 甘特圖
 ![](gantter.png)
+## 報告
+<a herf https://goo.gl/q885FF>期中報告</a>
+<a herf https://goo.gl/gBVDLd>期末報告</a>
